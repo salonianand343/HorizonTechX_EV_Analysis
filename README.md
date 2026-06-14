@@ -1,4 +1,4 @@
-# HorizonTechX_EV_Analysis
+# EV_Analysis
 # 🚗 Electric Vehicle (EV) Market Analysis
 
 ## 📌 Project Overview
